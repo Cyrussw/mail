@@ -22,3 +22,5 @@ Herkese merhabalar ben Burak! Sizler için geliştirdiğim PHP ile mail gönderm
 ## Lisans
 
 Bu proje [MIT](https://opensource.org/licenses/MIT) lisansı ile lisanslanmıştır.
+
+Legacy Learning Project — Built independently.
